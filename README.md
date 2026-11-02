@@ -3,7 +3,7 @@
 > Аналіз воронки, утримання користувачів та юніт-економіки підписочного застосунку: де втрачаємо користувачів після Trial і які канали залучення та ринки варто фінансувати.
 
 **Інструменти:** SQL, Google Sheets / Excel, Tableau
-📊 [Tableau Dashboard](https://public.tableau.com/views/project_17824699690760/Analysisofapp) | 📄 [Повний звіт (PDF)](report/subscription-funnel-report.pdf)
+📊 [Tableau Dashboard](https://public.tableau.com/views/project_17824699690760/Analysisofapp) | 📄 [Повний звіт (PDF)](reports/report.pdf)
 
 ---
 
