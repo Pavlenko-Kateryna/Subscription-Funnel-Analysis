@@ -99,7 +99,7 @@
 
 **Розподіл за каналами залучення**
 
-![Канали залучення](images/distribution_by_channels.png)
+![Канали залучення](images/distribution_by_channel.png)
 
 Графік, показує, що найбільш прибуткові канали це Google та Facebook Ads.
 
