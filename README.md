@@ -4,7 +4,7 @@
 
 **Інструменти:** SQL, Google Sheets / Excel, Tableau
 
-[SQL-запити](sql-reports/) | [Google Sheets](https://docs.google.com/spreadsheets/d/1qpou-08c-fwnlu8hkP5wWOqUSM9V9kTLQ2He5a2XiVI/edit?usp=sharing) | [Tableau Dashboard](https://public.tableau.com/views/project_17824699690760/Analysisofapp) | [Повний звіт (PDF)](reports/report.pdf)
+[SQL-запити](sql-queries/) | [Google Sheets](https://docs.google.com/spreadsheets/d/1qpou-08c-fwnlu8hkP5wWOqUSM9V9kTLQ2He5a2XiVI/edit?usp=sharing) | [Tableau Dashboard](https://public.tableau.com/views/project_17824699690760/Analysisofapp) | [Повний звіт (PDF)](reports/report.pdf)
 
 ---
 
