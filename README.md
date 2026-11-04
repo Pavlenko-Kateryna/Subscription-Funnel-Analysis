@@ -116,10 +116,9 @@
 ```
 subscription-funnel-analysis/
 ├── README.md
-├── sql/        # SQL-запити
-├── excel/      # Excel / Google Sheets файли
-├── report/     # повний звіт (PDF)
-└── images/     # скріншоти для README
+├── sql-queries/ # SQL-запити
+├── report/      # повний звіт (PDF)
+└── images/      # скріншоти для README
 ```
 
 ## Автор
