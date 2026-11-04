@@ -45,7 +45,7 @@
 | transaction_id | TEXT PK | Унікальний ідентифікатор |
 | user_id | TEXT FK | Посилання на `users` |
 | date | DATETIME | Дата та час транзакції |
-| transaction_type | TEXT | Тип транзакції ([перелічіть значення, напр. trial, purchase, renewal]) |
+| transaction_type | TEXT | Тип транзакції |
 | plan_id | TEXT FK | Посилання на `subscription_plans` |
 | amount_usd | DECIMAL | Сума в USD |
 | campaign | TEXT | Маркетингова кампанія на момент транзакції |
